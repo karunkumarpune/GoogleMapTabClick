@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Google Map TabClick Mark</string>
+
+    <string name="google_maps_key" translatable="false">AIzaSyDO0K-J0aYsiYn7Fu-bibw9TTxl1B4hWQ4</string>
+
+</resources>
